@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 'Under the Lemon Tree'
+subtitle: '在遗忘之前'
+description: '柠檬树下'
 keywords:
-author: John Doe
-language: en
+author: Hungry Lemon
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Redefine
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -104,3 +104,12 @@ deploy:
   type: git
   repo: git@github.com:Ochann/Ochann.github.io.git
   branch: main
+
+# Search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+
