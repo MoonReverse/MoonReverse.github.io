@@ -1,5 +1,7 @@
 ---
-title: Hello World
+title: 在我们将一切忘却之前
+categories: 
+- 忘却之前
 ---
 在2023年的最后一天追忆一下博客时代。
 

@@ -1,14 +1,14 @@
 include ../mixins/horizontalLine.pug
 
 - let getLocation = function() {
--   let location = '首页'
+-   let location = '主页'
 -   if (is_page()) location = page.title
 -   if (is_post()) location = page.title
--   if (is_archive()) location = 'Archive'
+-   if (is_archive()) location = '时间轴'
 -   if (is_year()) location += ': ' + page.year
 -   if (is_month()) location += ': ' + page.month + '/' + page.year
--   if (is_tag()) location = 'Tag: ' + page.tag
--   if (is_category()) location = 'Category: ' + page.category
+-   if (is_tag()) location = '标签: ' + page.tag
+-   if (is_category()) location = '分类: ' + page.category
 -   return location
 - }
 

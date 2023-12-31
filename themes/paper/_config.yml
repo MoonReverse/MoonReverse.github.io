@@ -30,7 +30,7 @@ social:
   AO3: https://archiveofourown.org/users/LemonHyphae/pseuds/LemonHyphae
   Discord: https://discord.gg/5uRdsDfqjD
   Steam: https://steamcommunity.com/profiles/76561198262536057/
-  Mail: mailto:moonreversenight@outlook.com
+  Email: mailto:moonreversenight@outlook.com
   # and more, you can add other link by the same way
 
 # Uncomment to disable sidebar
@@ -38,7 +38,7 @@ social:
 # link: false
 # archives: false
 # categories: false
-# tags: false
+tags: false
 
 # theme color
 main_color: default # forest | grass | sky | sun | sea
@@ -48,8 +48,8 @@ google_analytics_id: xx-xxxxxxx-xx
 
 # comment module
 comment:
-  enable: false
-  type: valine # valine | utterances
+  enable: true
+  type: utterances # valine | utterances
 
   # valine 需要的参数
   appId: your-app-id
@@ -60,6 +60,15 @@ comment:
   avatar: mp
 
   # utterances (https://utteranc.es/) 需要的参数
-  repo: your-repo-name
-  issue_term: your-issue-term
-  theme: your-comment-theme
+  repo: Ochann/Comments
+  issue_term: pathname
+  theme: github-light
+
+
+# search
+local_search:
+  enable: true
+  trigger: auto
+  top_n_per_article: 5
+  unescape: false
+  preload: false
