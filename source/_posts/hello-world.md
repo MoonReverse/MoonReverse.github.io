@@ -1,38 +1,17 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+在2023年的最后一天追忆一下博客时代。
 
-## Quick Start
 
-### Create a new post
+第一次开电子博客应该是20年前的事，甚至比QQ用得更早。即使已经忘了那家早就倒闭的博客的名字，也还记得花很多时间去装扮的那种心情。
 
-``` bash
-$ hexo new "My New Post"
-```
+后来用上了QQ空间，除了高密度输出的说说，还时不时会写点长日志，即使大部分内容我现在再看都会发出尴尬的无声尖叫。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+或许10年后再看到这个博客的内容我也会尴尬。
 
-### Run server
+再后来就表达得越来越少。在朋友圈碎碎念得太多，被人说得少发点负能量的东西。去微博感觉自在很多，却也没了大段输出的习惯，再加上说点什么就可能被赛博消失的隐忧。逐渐习惯了在内心澎湃，面上声色不动。
 
-``` bash
-$ hexo server
-```
+手机里存了好多照片，似乎记录下了很多重要的东西，但又似乎是如果不小心丢失也就算了的程度。那些拍摄时的心情，我都还能想起来吗？
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+所以，想要真的记录下来些什么，在我们将一切忘却之前。

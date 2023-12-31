@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Under the Lemon Tree'
-subtitle: '在遗忘之前'
-description: '柠檬树下'
-keywords:
-author: Hungry Lemon
+title: 'Before we forget everything'
+subtitle: 'Before we forget everything'
+description: ''
+keywords: ''
+author: Lemon
 language: zh-CN
 timezone: ''
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Redefine
+theme: paper
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
