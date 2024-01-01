@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Before we forget everything</title>
-  <icon>http://blog.thelemonword.top/icon.png</icon>
+  <icon>http://blog.thelemonword.top/images/favicon.ico</icon>
   <subtitle>The Lemon Word</subtitle>
   <link href="http://blog.thelemonword.top/atom.xml" rel="self"/>
   
