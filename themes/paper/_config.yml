@@ -27,10 +27,12 @@ social:
   #Twitter: https://twitter.com/yours
   #知乎: https://www.zhihu.com/people/yours
   #掘金: https://juejin.im/user/yours
+  RSS: http://blog.thelemonword.top/atom.xml
   AO3: https://archiveofourown.org/users/LemonHyphae/pseuds/LemonHyphae
   Discord: https://discord.gg/5uRdsDfqjD
   Steam: https://steamcommunity.com/profiles/76561198262536057/
   Email: mailto:moonreversenight@outlook.com
+
   # and more, you can add other link by the same way
 
 # Uncomment to disable sidebar
@@ -72,3 +74,5 @@ local_search:
   top_n_per_article: 5
   unescape: false
   preload: false
+
+  
