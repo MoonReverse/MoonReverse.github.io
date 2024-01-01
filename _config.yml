@@ -121,11 +121,11 @@ feed:
   path: atom.xml
   limit: 20
   hub:
-  content:
+  content: true
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-  icon: icon.png
+  icon: /images/favicon.ico
   autodiscovery: true
   template:
 
