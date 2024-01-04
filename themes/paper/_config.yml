@@ -27,7 +27,7 @@ social:
   #Twitter: https://twitter.com/yours
   #知乎: https://www.zhihu.com/people/yours
   #掘金: https://juejin.im/user/yours
-  RSS: http://blog.thelemonword.top/atom.xml
+  #RSS: http://blog.thelemonword.top/atom.xml
   AO3: https://archiveofourown.org/users/LemonHyphae/pseuds/LemonHyphae
   Discord: https://discord.gg/5uRdsDfqjD
   Steam: https://steamcommunity.com/profiles/76561198262536057/
@@ -62,7 +62,7 @@ comment:
   avatar: mp
 
   # utterances (https://utteranc.es/) 需要的参数
-  repo: Ochann/Comments
+  repo: MoonReverse/BlogComments
   issue_term: pathname
   theme: github-light
 
@@ -75,4 +75,4 @@ local_search:
   unescape: false
   preload: false
 
-  
+rss: /atom.xml
